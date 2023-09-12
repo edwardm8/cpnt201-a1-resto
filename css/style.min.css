@@ -109,8 +109,8 @@ a:hover {
 
 .btn-primary {
   display: inline-block;
-  background-color: #f34949;
-  border-color: #f34949;
+  background-color: blue;
+  border-color: blue;
   color: #fff;
   border-radius: 30px;
   padding: 9px 25px;
